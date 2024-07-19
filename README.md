@@ -3,14 +3,12 @@
 A movie listing app
 
 ## Getting Started
+This is a starting project for a flutter movi application 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Install the packages to run
+http: ^1.2.0
+flutter_rating: ^2.0.2
+carousel_slider: ^4.2.1
+easy_refresh: ^3.4.0
+video_player: ^2.8.5
+provider: ^6.1.2
